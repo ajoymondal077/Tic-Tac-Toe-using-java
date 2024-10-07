@@ -10,7 +10,7 @@ This is a simple **Tic Tac Toe** game implemented in Java using the **Swing** fr
 ## Screenshot:
 Below is the screenshot of the Tic Tac Toe GUI:
 
-![Tic Tac Toe GUI](TicTacToe_screen shot.png)
+![Tic Tac Toe GUI]("TicTacToe_screen shot.png")
 
 ## How to Run:
 1. Compile the code using a Java compiler.
